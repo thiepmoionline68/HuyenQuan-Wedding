@@ -597,7 +597,7 @@ body {
 
 /* INVITATION */
 #invitation {
-    padding: 80px 0;
+    padding: 80px 0 0 0;
 }
 .invitation-container {
     margin-top: 40px;
